@@ -1,0 +1,9 @@
+.idea/
+*.pyc
+logfiles/
+build/
+dist/
+py3mylib.egg-info/
+.eggs/
+py3mylib/log/
+py2mylib.egg-info/
