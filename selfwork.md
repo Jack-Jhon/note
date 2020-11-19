@@ -1,5 +1,9 @@
 - 刘健redies和mysql cpp demo工程
 - opensea nodejs服务转换成jsonrpc，调试自动刷erc721的商品
 - 复习字节准备
-- 对账系统
-- 小说自助转语音系统
+- 对账系统 - 50%
+- 小说自助转语音系统 - 70%
+- datagrip 数据库使用
+- clion windows编译环境，跨平台
+- 本地github，用frpc统一代理，frpc客户端进程/服务器需要统一管理
+- windows进程服务管理工具
