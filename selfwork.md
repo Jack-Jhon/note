@@ -5,5 +5,6 @@
 - 小说自助转语音系统 - 70%
 - datagrip 数据库使用
 - clion windows编译环境，跨平台
-- 本地github，用frpc统一代理，frpc客户端进程/服务器需要统一管理
+- 本地github，用frpc统一代理，frpc客户端进程/服务器需要统一管理 - 50%
 - windows进程服务管理工具
+- 账户管理系统

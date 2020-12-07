@@ -22,6 +22,7 @@ psql
 create user jack with password 'jackjhon';
 CREATE ROLE caigp superuser PASSWORD 'jackjhon' login;
 
+CREATE ROLE root superuser;
 
 配置远程连接
 vim /etc/postgresql/10/main/pg_hba.conf
