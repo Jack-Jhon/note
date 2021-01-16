@@ -1,0 +1,16 @@
+#pragma once
+
+#ifndef FINGER_PRINT_H
+#define FINGER_PRINT_H
+#ifdef PRODUCT_MYZ
+	#define FingerPrint "PRODUCT_MYZPRODUCT_MYZPRODUCT_MYZPRODUCT_MYZPRODUCT_MYZ"
+	#define PRODUCT_NAME "MeiYuanZhan"
+#elif PRODUCT_BITSTAR
+	#define FingerPrint "PRODUCT_BITSTARPRODUCT_BITSTARPRODUCT_BITSTARPRODUCT_BITSTAR"
+	#define PRODUCT_NAME "BitStar"
+#elif TEST_APP
+	#define FingerPrint "`TEST_APPTEST_APPTEST_APPTEST_APP"
+	#define PRODUCT_NAME "AppTest"
+#endif
+
+#endif
