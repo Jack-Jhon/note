@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-03-11T10:19:19.335Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="aqunuZ7wTlqEBr2-NN7k" version="14.4.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-03-11T10:27:10.856Z" agent="5.0 (Macintosh; Intel Mac OS X 11_1_0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.192 Safari/537.36" etag="oL7PTpDIwFkRCC4iSiXW" version="14.4.7" type="github">
   <diagram id="kgpKYQtTHZ0yAKxKKP6v" name="Page-1">
     <mxGraphModel dx="946" dy="513" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -39,7 +39,7 @@
             <mxPoint x="240" y="257" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="6zUKTDPogScIG6actb8f-1" value="market:binance" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
+        <mxCell id="6zUKTDPogScIG6actb8f-1" value="gatemm:instance" style="shape=umlLifeline;perimeter=lifelinePerimeter;container=1;collapsible=0;recursiveResize=0;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="1">
           <mxGeometry x="180" y="90" width="100" height="300" as="geometry" />
         </mxCell>
         <mxCell id="6zUKTDPogScIG6actb8f-2" value="" style="points=[];perimeter=orthogonalPerimeter;rounded=0;shadow=0;strokeWidth=1;" vertex="1" parent="6zUKTDPogScIG6actb8f-1">
